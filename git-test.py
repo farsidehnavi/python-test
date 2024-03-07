@@ -1,6 +1,9 @@
-print ("this has run by git")
-print ("this has typed by github editor")
-a=False
-if a==False{
-    print (a)
-}
+#a=int(input("->"))
+#if (a%2==0):
+#    print ("even")
+#else:
+#    print("odd")
+b=[20]
+import matplotlib.pyplot
+matplotlib.pyplot.pie(b)
+matplotlib.pyplot.show()
